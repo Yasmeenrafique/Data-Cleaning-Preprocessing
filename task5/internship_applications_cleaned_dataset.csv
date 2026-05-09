@@ -1,0 +1,191 @@
+Applicant_ID,Name,Age,Gender,Skills,CGPA,Experience_Years
+96,Richard Duarte,24,Female,Machine Learning,3.35,Yes
+16,Erica Atkinson,26,Female,Power BI,2.33,Yes
+31,Sean Mitchell,27,Female,Excel,2.75,Yes
+159,Terri Jarvis,23,Male,Excel,2.38,Yes
+129,Robert Davis,22,Female,Tableau,3.67,Yes
+116,Jaclyn Martinez,23,Male,SQL,2.28,Yes
+70,Theresa Weaver,22,Male,SQL,3.48,Yes
+171,Wendy Woods,22,Male,Python,3.22,Yes
+175,Hunter Phillips,22,Male,Power BI,2.58,Yes
+46,Bobby Johnson,21,Male,SQL,3.32,Yes
+67,Alexander Lambert,21,Male,Tableau,2.32,Yes
+183,Corey Mccarthy,24,Female,Communication,3.21,No
+166,Wendy Wagner,19,Male,Machine Learning,2.98,Yes
+79,Crystal Stokes,23,Male,Communication,2.42,Yes
+187,Carla Young,27,Female,Data Analysis,3.94,Yes
+178,Cheryl Lee,21,Female,Excel,3.82,Yes
+57,Jeremy Moreno,21,Male,Python,3.5,No
+153,Jessica Wagner,26,Female,Data Analysis,3.29,Yes
+83,Pamela Moran,24,Female,Power BI,2.53,Yes
+69,Benjamin Dominguez,22,Female,Power BI,3.88,Yes
+125,Sonia Munoz,27,Male,Python,3.81,Yes
+17,Nicholas Frazier,22,Female,Power BI,3.37,No
+149,John Jackson Jr.,27,Female,Machine Learning,2.67,Yes
+94,Michelle Shea,29,Male,Tableau,3.33,Yes
+66,Cynthia Smith,26,Male,Excel,3.87,No
+61,Courtney Pierce,21,Male,Python,3.24,Yes
+85,Alicia Gonzalez,21,Female,Communication,2.61,Yes
+68,Nicholas Leblanc,29,Male,Python,3.34,Yes
+126,Brittney Carlson,27,Female,Python,2.17,Yes
+133,Linda Johnson,24,Female,Power BI,2.25,Yes
+10,Ronald Garcia,19,Female,SQL,3.1,Yes
+19,Felicia Quinn,21,Male,Communication,2.43,Yes
+56,James Stewart,30,Male,Data Analysis,2.31,Yes
+76,John Kaiser,26,Male,SQL,2.15,Yes
+151,Suzanne Perez,23,Male,Tableau,3.11,Yes
+105,Julie Ware,30,Male,Data Analysis,2.83,Yes
+136,Eric Dudley,29,Male,Excel,3.93,No
+138,Justin Mitchell,24,Female,Power BI,2.15,Yes
+165,Deborah Smith,23,Female,Python,2.5,Yes
+77,Jessica Schaefer,20,Male,Python,3.67,Yes
+80,Mr. Samuel Harper,28,Male,Communication,3.56,Yes
+30,Kevin Murphy,24,Male,Tableau,3.68,Yes
+39,Caleb Vang,28,Female,Communication,2.88,Yes
+25,Holly Ho,27,Male,Machine Learning,2.76,Yes
+123,Samuel Gray,24,Female,Python,2.78,Yes
+24,Bruce Patterson,20,Female,Excel,3.58,Yes
+20,Alan Moss,24,Female,Data Analysis,2.29,Yes
+144,Nathan Castaneda,25,Female,Excel,2.87,Yes
+87,Adam Lin,19,Male,Communication,3.28,Yes
+115,Tina Barnes,25,Male,Tableau,2.47,Yes
+174,Sandra Willis,18,Female,Data Analysis,3.38,Yes
+6,Veronica Mendoza,22,Male,Excel,3.4,Yes
+127,Tracy Farley,20,Female,Excel,2.1,Yes
+118,Dorothy Fuentes,24,Female,Communication,3.09,Yes
+74,Debra Hudson,18,Male,Power BI,3.27,Yes
+141,Claudia Maldonado,30,Male,Power BI,3.07,Yes
+99,Steven Torres,27,Female,Communication,2.93,Yes
+173,Michael Jackson,20,Female,Excel,3.1,Yes
+97,Danielle Carrillo,27,Male,Tableau,2.81,No
+170,Amanda Blanchard,25,Female,Tableau,3.72,Yes
+98,Rachel Sullivan,22,Male,Power BI,2.86,Yes
+32,Kevin Garrett,26,Male,Python,3.2,Yes
+13,Karen Jackson,19,Female,Tableau,2.91,Yes
+36,Nicholas Rodriguez,30,Female,Excel,3.32,Yes
+120,Phyllis Armstrong,29,Male,Machine Learning,2.95,Yes
+43,Brittany Harrison,23,Male,Power BI,2.56,Yes
+190,Dominique Bryant,28,Female,Python,2.91,Yes
+91,Michael Morris,19,Female,Power BI,2.51,Yes
+137,Katherine Mccoy,27,Male,Tableau,3.15,Yes
+52,Cory Wallace,19,Male,Python,3.94,Yes
+128,Gary Rodgers,23,Female,Power BI,2.65,Yes
+163,Thomas Smith,26,Male,Excel,3.28,Yes
+42,Benjamin Taylor,19,Female,Python,2.46,No
+119,Andrew Sanchez,24,Female,Machine Learning,2.78,Yes
+114,Matthew Bradshaw,22,Male,Power BI,3.25,Yes
+27,Christopher Green,28,Male,Tableau,3.54,Yes
+140,Jared Dominguez,28,Male,SQL,3.59,Yes
+101,Kathleen Ortiz,20,Female,SQL,2.57,Yes
+112,Sherry Glover,26,Female,Data Analysis,3.79,Yes
+3,Joshua Parsons,19,Male,Machine Learning,2.06,No
+78,Jessica Murphy,26,Female,Machine Learning,2.25,Yes
+47,Mary Allen,24,Female,Data Analysis,3.73,No
+188,Mr. Marc Carter,23,Female,Communication,2.64,No
+86,Sarah Middleton,21,Male,Power BI,2.8,Yes
+162,Lisa Williams,29,Male,Excel,2.55,No
+37,Samantha Walker,20,Male,Machine Learning,3.93,Yes
+62,Tyler Chen,28,Male,Communication,3.87,Yes
+23,Cynthia Stevens,26,Female,SQL,3.51,No
+142,Kiara Perez,23,Male,Communication,2.03,Yes
+102,Karen Carroll,28,Male,Communication,2.19,Yes
+34,Alexander Ward,21,Male,Power BI,3.76,No
+12,Edward Williams,28,Female,Tableau,3.97,Yes
+160,Thomas Paul,24,Male,Tableau,3.96,Yes
+7,Mary Cox,22,Female,Power BI,3.91,Yes
+28,Patricia Tanner,19,Male,Machine Learning,2.32,No
+121,Taylor Santiago,22,Female,Machine Learning,3.08,Yes
+5,Jacob Villarreal,28,Female,Machine Learning,2.44,Yes
+33,Cameron Brooks,18,Male,Communication,3.76,Yes
+143,Tanya Mann,25,Male,Machine Learning,3.92,Yes
+146,Alice Hernandez,30,Female,Data Analysis,2.87,Yes
+110,Jessica Smith DDS,25,Female,Data Analysis,3.34,Yes
+145,Victoria Oliver,26,Female,Tableau,3.23,Yes
+11,Dillon Ward,27,Male,Power BI,3.41,No
+63,Matthew White,28,Female,Communication,2.48,Yes
+113,Isaac Brown,25,Female,Power BI,3.5,Yes
+147,Ronald Rodriguez,27,Male,Communication,3.7,No
+167,Travis Stewart,28,Female,Python,2.3,Yes
+1,Steven Scott,24,Male,Python,3.48,Yes
+154,Brandon Potter,25,Male,SQL,2.59,Yes
+71,Heather Jensen,22,Male,Power BI,3.44,Yes
+124,Amy Martinez,28,Female,Excel,3.68,Yes
+65,Amber Fisher,24,Female,SQL,2.15,Yes
+45,Tiffany Howe,27,Female,Power BI,3.57,Yes
+164,Vincent Gonzalez,19,Male,Tableau,2.94,Yes
+29,Rebecca Sullivan,29,Female,Tableau,3.94,Yes
+41,Stephen Newton,18,Male,Power BI,3.18,No
+109,Becky Gonzalez,26,Female,Python,3.11,No
+156,Patricia Jones,25,Male,Communication,2.85,Yes
+157,Christopher Avila,26,Male,Communication,3.41,Yes
+26,Amber Mercer,26,Male,Python,3.36,No
+185,Sabrina Obrien,22,Male,Python,3.53,Yes
+148,Colleen Lee,22,Female,Power BI,3.5,Yes
+82,Paul Wade,20,Female,Machine Learning,2.05,Yes
+40,Joseph Wilson,25,Male,Power BI,2.45,Yes
+169,Mr. David Lynn,24,Male,Power BI,3.55,Yes
+48,Jacob Sullivan,28,Female,SQL,2.12,Yes
+95,Bruce Ferguson,24,Female,Tableau,3.11,Yes
+155,Susan Adams,29,Female,Tableau,3.33,Yes
+44,Michael Cowan,21,Male,Excel,3.45,Yes
+139,Lindsay Cunningham,24,Female,SQL,3.39,Yes
+4,Jacqueline Soto,21,Female,Python,3.12,Yes
+106,Rachel Howe,24,Female,Machine Learning,2.99,Yes
+54,Lisa Ramirez,18,Female,Machine Learning,2.0,Yes
+134,Meghan Jones,19,Male,Power BI,2.93,Yes
+181,Erika Mitchell,29,Male,Machine Learning,3.89,Yes
+179,Louis Carter,19,Male,Excel,3.59,Yes
+186,Donald Booth,25,Male,Data Analysis,3.83,Yes
+50,Peggy Peterson,25,Female,Machine Learning,2.37,Yes
+81,Jordan Freeman,27,Female,Excel,3.85,Yes
+35,Thomas Hess,19,Female,Data Analysis,3.63,Yes
+8,Ashley Smith,19,Male,Machine Learning,2.19,Yes
+111,Leslie Hernandez,27,Male,Data Analysis,3.23,Yes
+92,Tanner Mckinney,24,Male,Power BI,2.73,No
+84,Randall Munoz,19,Female,Python,3.72,Yes
+177,Danielle Reid,30,Female,Power BI,2.85,Yes
+182,Elizabeth Meza,26,Female,Data Analysis,2.16,No
+90,Jonathan Robinson,24,Male,Communication,2.87,Yes
+9,Austin Davis,27,Male,Python,3.46,Yes
+14,Casey Dean,24,Male,Power BI,2.42,Yes
+60,Elizabeth Ferguson,27,Male,Power BI,2.81,Yes
+172,Joseph Johnson,19,Female,Power BI,2.53,No
+132,Julie Gentry,24,Male,Power BI,2.4,No
+18,Samantha Jones,21,Male,Communication,2.8,No
+73,Teresa Escobar,18,Male,Machine Learning,3.66,No
+176,David Davis,29,Female,SQL,3.37,Yes
+135,Kristi Ballard,30,Male,Excel,3.21,Yes
+168,Tara Thompson,22,Male,Power BI,2.24,Yes
+184,Katherine Jimenez,19,Female,Python,4.0,Yes
+64,Brian Wolf,20,Female,Tableau,2.91,No
+55,Travis Drake,22,Female,Tableau,2.85,Yes
+108,Christopher Leon,30,Female,Power BI,2.35,Yes
+51,Anthony Alexander,21,Male,Data Analysis,3.62,Yes
+58,Lisa Trujillo,18,Male,Data Analysis,3.01,Yes
+59,Robert Anderson,20,Male,SQL,3.7,No
+49,Brooke Garza,24,Male,Power BI,2.38,Yes
+89,Gina Taylor,22,Female,Tableau,2.08,Yes
+22,John Martin,27,Female,Communication,2.44,Yes
+161,Michael Smith,22,Female,Power BI,2.36,No
+130,Nicole Rogers,18,Female,Python,4.0,Yes
+38,Sherri Andrade,30,Female,Power BI,3.43,Yes
+158,Heather Bowman,22,Male,Power BI,2.24,Yes
+2,Christopher Schwartz,21,Female,SQL,3.35,Yes
+53,Ashley Lawrence,20,Female,Power BI,2.96,Yes
+150,Angela Potter,23,Female,Data Analysis,2.42,Yes
+131,Michael Mcintyre,21,Female,SQL,3.56,Yes
+152,Jeffrey Olsen,21,Male,Power BI,3.44,Yes
+104,Crystal Cook,24,Male,Power BI,3.97,Yes
+100,Jennifer Haney,28,Female,Data Analysis,3.59,Yes
+117,Allison Morris,24,Female,Excel,3.41,No
+88,Kimberly Salinas,28,Male,Communication,3.88,No
+75,Linda Flores,20,Female,Data Analysis,3.1,Yes
+122,Kimberly Sanchez MD,26,Male,Power BI,2.98,Yes
+21,Sabrina Cervantes,21,Female,Tableau,3.49,Yes
+189,Timothy Mercado,20,Male,Machine Learning,3.39,Yes
+72,Jorge Gutierrez,28,Female,Tableau,3.01,Yes
+107,Janice Love,20,Female,Python,3.79,No
+15,Diane Taylor,29,Female,SQL,3.22,Yes
+93,Sarah Scott,24,Male,Communication,3.33,No
+180,Ricardo Vaughn,29,Male,Tableau,2.88,Yes
+103,John Martin,28,Male,Power BI,3.61,Yes
